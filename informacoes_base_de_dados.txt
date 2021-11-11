@@ -1,4 +1,4 @@
-Informações dos dados das colunas:
+*Informações dos dados das colunas:
 
 Essa pesquisa emprega uma variável binária, "default payment" (sim = 1, não = 0), como a variável de resposta. Este estudo revisou a literatura e usou as seguintes 23 variáveis como variáveis interpretativas:
 Col1_Limit_Bal: Quantidade de crédito concedido (NT dollar): ela inclui tanto o consumo individual de crédito quanto o crédito suplementar da família do cliente.

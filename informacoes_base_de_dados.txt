@@ -1,0 +1,15 @@
+Informações dos dados das colunas:
+
+Essa pesquisa emprega uma variável binária, "default payment" (sim = 1, não = 0), como a variável de resposta. Este estudo revisou a literatura e usou as seguintes 23 variáveis como variáveis interpretativas:
+Col1_Limit_Bal: Quantidade de crédito concedido (NT dollar): ela inclui tanto o consumo individual de crédito quanto o crédito suplementar da família do cliente.
+Col2_Sex: Gênero do cliente (1 = masculino; 2 = femimino).
+Col3_Education: Nível educacional do cliente (1 = pós-graduação; 2 = ensino superior; 3 = ensino médio; 4 = outros).
+Col4_Marriage: Estado civil do cliente (1 = casado; 2 = solteiro; 3 = outros).
+Col5_Age: Idade do cliente (em anos).
+Col6 - Col11_ Pay: Histórico de pagamentos anteriores. Foram monitorados os últimos registros de pagamentos mensais (de Abril até Setembro de 2005) como segue: Col6 = o status de reembolso em Setembro de 2005; Col7 = o status de reembolso em Agosto de 2005; . . .; X11 = o status de reembolso em Abril de 2005. A escala de medida para esse status de reembolso é: -1 = devidamente pago; 1 = pagamento atrasado por um mês; 2 = pagamento atrasado por dois meses; . . .; 8 = pagamento atrasado por oito meses; 9 = pagamento atrasado por nove meses ou mais.
+Col12 - Col17_Bill_Amt: Valor da fatura (NT dollar). Col12 = valor da fatura em Setembro de 2005; Col13 = valor da fatura em Agosto de 2005; . . .; Col17 = valor da fatura em Abril de 2005.
+Col18 - Col23: Valor do pagamento anterior (NT dollar). Col18 = quantia paga em Setembro de 2005; Col19 = quantia paga em Agosto de 2005; . . .; Col23 = quantia paga em Abril de 2005.
+
+Departmento de Gerenciamento de Informação, Chung Hua University, Taiwan e Departamento de Engenharia Civil, Tamkang University, Taiwan.
+
+Referência: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
